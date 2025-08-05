@@ -2,6 +2,10 @@
 
 
 ## 시연 영상
+유튜브 링크 : https://youtu.be/4R5R8dMxSKQ
+
+![엘리베이터_시연영상](https://github.com/user-attachments/assets/f2a3ff2b-1f1f-4a21-9832-4be02319d5a0)
+
 
 
 ## 개요 
